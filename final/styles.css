@@ -127,6 +127,12 @@ ul {
   display: block;
   object-fit: cover;
 }
+
+.img-king {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+}
 /* buttons */
 
 .btn {
