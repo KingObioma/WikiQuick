@@ -128,11 +128,6 @@ ul {
   object-fit: cover;
 }
 
-.img-container {
-  width: 100%;
-  display: block;
-  object-fit: cover;
-}
 /* buttons */
 
 .btn {
