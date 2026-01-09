@@ -8,4 +8,3 @@ const url =
 // "origin=*" fix cors errors
 
 const page_url = 'href=http://en.wikipedia.org/?curid=${pageid}';
-const page_curl = 'href=http://en.wikipedia.org/?curid=${pageid}';
