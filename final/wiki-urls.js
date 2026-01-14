@@ -1,6 +1,6 @@
 const url =
   'https://en.wikipedia.org/w/api.php?action=query&list=search&srlimit=20&format=json&origin=*&srsearch=searchValue';
-  'https://en.amazon.org/w/api.php?action=query&list=search&srlimit=20&format=json&origin=*&srsearch=searchValue';
+  'https://en.amazon.org/w/api.php?=query&list=search&srlimit=20&format=json&origin=*&srsearch=searchValue';
 
 // list=search - perform a full text search
 // srsearch="inputValue" - search for page titles or content matching  this value.
