@@ -165,7 +165,6 @@ ul {
   width: 6rem;
   height: 6rem;
   border: 5px solid var(--grey-400);
-  border-radius: 50%;
   animation: spinner 0.6s linear infinite;
 }
 .loading {
